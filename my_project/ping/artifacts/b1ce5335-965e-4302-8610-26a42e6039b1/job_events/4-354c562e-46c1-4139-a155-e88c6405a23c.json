@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "354c562e-46c1-4139-a155-e88c6405a23c", "counter": 4, "stdout": "\u001b[0;35m2023, 11:14:05) [GCC 8.3.0]. This feature will be removed from ansible-core in \u001b[0m", "start_line": 3, "end_line": 4, "runner_ident": "b1ce5335-965e-4302-8610-26a42e6039b1", "created": "2024-05-21T08:48:01.361503"}

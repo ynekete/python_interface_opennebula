@@ -1,0 +1,9 @@
+---
+- hosts: all
+
+  tasks:
+      - name: Test
+        become: yes
+        become_user: root
+        become_method: su
+        debug: msg="Test!"

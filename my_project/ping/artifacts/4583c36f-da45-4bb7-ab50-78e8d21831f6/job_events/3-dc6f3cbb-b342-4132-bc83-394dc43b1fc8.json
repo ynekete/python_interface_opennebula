@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "dc6f3cbb-b342-4132-bc83-394dc43b1fc8", "counter": 3, "stdout": "\u001b[0;35mcontroller starting with Ansible 2.12. Current version: 3.7.3 (default, Jun  7 \u001b[0m", "start_line": 2, "end_line": 3, "runner_ident": "4583c36f-da45-4bb7-ab50-78e8d21831f6", "created": "2024-05-21T08:52:32.515222"}

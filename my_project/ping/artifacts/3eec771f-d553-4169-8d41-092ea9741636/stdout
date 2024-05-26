@@ -1,0 +1,20 @@
+Identity added: /home/u/my_project/ping/artifacts/3eec771f-d553-4169-8d41-092ea9741636/ssh_key_data (root@brest-srv.asafonov.local)
+[0;35m[DEPRECATION WARNING]: Ansible will require Python 3.8 or newer on the [0m
+[0;35mcontroller starting with Ansible 2.12. Current version: 3.7.3 (default, Jun  7 [0m
+[0;35m2023, 11:14:05) [GCC 8.3.0]. This feature will be removed from ansible-core in [0m
+[0;35mversion 2.12. Deprecation warnings can be disabled by setting [0m
+[0;35mdeprecation_warnings=False in ansible.cfg.[0m
+
+PLAY [all] *********************************************************************
+
+TASK [Gathering Facts] *********************************************************
+[1;35mcore/2.11/reference_appendices/interpreter_discovery.html for more information.[0m
+[0;32mok: [172.122.0.50][0m
+
+TASK [Test] ********************************************************************
+[0;32mok: [172.122.0.50] => {[0m
+[0;32m    "msg": "Test!"[0m
+[0;32m}[0m
+
+PLAY RECAP *********************************************************************
+[0;32m172.122.0.50[0m               : [0;32mok=2   [0m changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   

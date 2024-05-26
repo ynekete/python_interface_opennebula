@@ -1,0 +1,14 @@
+Identity added: /home/u/my_project/ping/artifacts/b1ce5335-965e-4302-8610-26a42e6039b1/ssh_key_data (root@brest-srv.asafonov.local)
+[0;35m[DEPRECATION WARNING]: Ansible will require Python 3.8 or newer on the [0m
+[0;35mcontroller starting with Ansible 2.12. Current version: 3.7.3 (default, Jun  7 [0m
+[0;35m2023, 11:14:05) [GCC 8.3.0]. This feature will be removed from ansible-core in [0m
+[0;35mversion 2.12. Deprecation warnings can be disabled by setting [0m
+[0;35mdeprecation_warnings=False in ansible.cfg.[0m
+
+PLAY [all] *********************************************************************
+
+TASK [Gathering Facts] *********************************************************
+[1;31mfatal: [172.122.0.50]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: u@172.122.0.50: Permission denied (publickey,password).", "unreachable": true}[0m
+
+PLAY RECAP *********************************************************************
+[0;31m172.122.0.50[0m               : ok=0    changed=0    [1;31munreachable=1   [0m failed=0    skipped=0    rescued=0    ignored=0   

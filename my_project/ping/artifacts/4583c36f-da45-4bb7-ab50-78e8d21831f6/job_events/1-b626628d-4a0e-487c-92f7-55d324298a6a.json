@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "b626628d-4a0e-487c-92f7-55d324298a6a", "counter": 1, "stdout": "Identity added: /home/u/my_project/ping/artifacts/4583c36f-da45-4bb7-ab50-78e8d21831f6/ssh_key_data (root@brest-srv.asafonov.local)", "start_line": 0, "end_line": 1, "runner_ident": "4583c36f-da45-4bb7-ab50-78e8d21831f6", "created": "2024-05-21T08:52:32.192515"}

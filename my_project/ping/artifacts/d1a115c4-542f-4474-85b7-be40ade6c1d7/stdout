@@ -1,0 +1,7 @@
+Identity added: /home/u/my_project/ping/artifacts/d1a115c4-542f-4474-85b7-be40ade6c1d7/ssh_key_data (root@brest-srv.asafonov.local)
+[0;35m[DEPRECATION WARNING]: Ansible will require Python 3.8 or newer on the [0m
+[0;35mcontroller starting with Ansible 2.12. Current version: 3.7.3 (default, Jun  7 [0m
+[0;35m2023, 11:14:05) [GCC 8.3.0]. This feature will be removed from ansible-core in [0m
+[0;35mversion 2.12. Deprecation warnings can be disabled by setting [0m
+[0;35mdeprecation_warnings=False in ansible.cfg.[0m
+[0;31mERROR! the playbook: test.yml could not be found[0m
